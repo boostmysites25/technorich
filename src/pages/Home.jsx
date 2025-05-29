@@ -343,7 +343,7 @@ const Home = () => {
             <p className="sub-heading">
               Welcome to{" "}
               <span className="text-primary font-semibold block sm:inline">
-                Sinha AI Solutions
+                Techno Rich
               </span>
             </p>
             <h1 className="heading capitalize">
@@ -419,7 +419,7 @@ const Home = () => {
                 <p className="desc">
                   At{" "}
                   <span className="font-medium text-primary">
-                    Sinha AI Solutions
+                    Techno Rich
                   </span>
                   , we’re passionate about helping businesses succeed in an
                   increasingly digital world. Our broad range of services—from

@@ -49,12 +49,12 @@ const AboutUs = () => {
                 />
               </div>
               <h2 className="heading-2 max-w-[60rem] mx-auto">
-                Welcome to Sinha AI Solutions
+                Welcome to Techno Rich
               </h2>
               <p className="desc">
                 At{" "}
                 <span className="font-semibold text-primary">
-                  Sinha AI Solutions
+                  Techno Rich
                 </span>
                 , we’re passionate about helping businesses succeed in an
                 increasingly digital world. Our broad range of services—from

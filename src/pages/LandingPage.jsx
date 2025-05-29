@@ -53,7 +53,7 @@ const LandingPage = ({ page }) => {
             <p className="sub-heading">
               Welcome to{" "}
               <span className="text-primary font-semibold block sm:inline">
-                Sinha AI Solutions
+                Techno Rich
               </span>
             </p>
             <h1 className="heading-1 whitespace-pre-line capitalize">

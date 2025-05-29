@@ -6,9 +6,9 @@ import SubHeading from "./SubHeading";
 const faqData = [
   {
     id: 1,
-    question: "What services does Sinha AI Solutions offer?",
+    question: "What services does Techno Rich offer?",
     answer:
-      "Sinha AI Solutions offers a comprehensive range of digital services including Web Development, App Development, UX/UI Design, Chatbot Development, AI Development Solutions, and Game Development. Each service is tailored to meet specific business needs and deliver exceptional results.",
+      "Techno Rich offers a comprehensive range of digital services including Web Development, App Development, UX/UI Design, Chatbot Development, AI Development Solutions, and Game Development. Each service is tailored to meet specific business needs and deliver exceptional results.",
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const faqData = [
   {
     id: 4,
     question:
-      "What is the typical process for starting a project with Sinha AI Solutions?",
+      "What is the typical process for starting a project with Techno Rich?",
     answer:
       "Our process typically begins with an initial consultation to understand your business goals and requirements. We then create a detailed proposal outlining scope, timeline, and cost. Once approved, we move into the design phase, followed by development, testing, and deployment. Throughout the process, we maintain clear communication and provide regular updates on progress.",
   },

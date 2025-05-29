@@ -14,7 +14,7 @@ const OurValue = () => {
             <br /> Innovation in Our Spirit
           </h2>
           <p data-aos="fade-up" className="desc">
-            At Sinha AI Solutions, we believe in the power of integrity and
+            At Techno Rich, we believe in the power of integrity and
             innovation to drive innovation and revolutionize industries.
           </p>
           <div data-aos="fade-up" className="flex gap-5 mt-2">

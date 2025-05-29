@@ -29,7 +29,7 @@ const WebsiteFooter = () => {
             alt="logo"
           />
           <p className="desc !text-sm max-w-[22rem] mt-3">
-            At Sinha AI Solutions, we believe in the power of innovation and
+            At Techno Rich, we believe in the power of innovation and
             creativity to drive innovation and revolutionize industries.
           </p>
           <div className="flex items-center gap-3 mt-5">

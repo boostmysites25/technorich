@@ -176,35 +176,35 @@ export const testimonials = [
     name: "Susmitha Sharma",
     position: "Product Manager at EcoTech Solutions",
     img: require("./assets/images/testimonial3.png"),
-    desc: "“Developing a mobile app for our business was a priority, and we needed an experienced team that could create a seamless user experience. SINHA AI SOLUTIONS delivered an app that was both intuitive and feature-rich, resulting in a noticeable increase in customer engagement. Their team was responsive, communicative, and worked diligently to meet our business objectives. We're thrilled with the end product and how it’s positively impacting our business.”",
+    desc: "“Developing a mobile app for our business was a priority, and we needed an experienced team that could create a seamless user experience. Techno Rich delivered an app that was both intuitive and feature-rich, resulting in a noticeable increase in customer engagement. Their team was responsive, communicative, and worked diligently to meet our business objectives. We're thrilled with the end product and how it’s positively impacting our business.”",
   },
   {
     id: 2,
     name: "Rahul Singh",
     position: "Operations Director at Global Logistics",
     img: require("./assets/images/testimonial1.png"),
-    desc: "“The implementation of Robotic Process Automation (RPA) by SINHA AI SOLUTIONS has transformed our operations. By automating repetitive tasks, we’ve increased productivity and significantly reduced human error. The team helped us identify the most impactful areas for automation and seamlessly integrated the solutions into our existing processes. The results speak for themselves—we’re saving time and resources while improving our overall efficiency.”",
+    desc: "“The implementation of Robotic Process Automation (RPA) by Techno Rich has transformed our operations. By automating repetitive tasks, we’ve increased productivity and significantly reduced human error. The team helped us identify the most impactful areas for automation and seamlessly integrated the solutions into our existing processes. The results speak for themselves—we’re saving time and resources while improving our overall efficiency.”",
   },
   {
     id: 3,
     name: "Emily Watson",
     position: "Chief Marketing Officer at SmartRetail Inc.",
     img: require("./assets/images/testimonial2.png"),
-    desc: "“We needed a way to utilize AI to improve our customer experience and drive smarter decisions. SINHA AI SOLUTIONS delivered a custom AI solution that exceeded our expectations. The AI-driven insights have helped us personalize customer interactions and optimize our services. The entire process was smooth, and the team was incredibly knowledgeable and responsive to our needs.”",
+    desc: "“We needed a way to utilize AI to improve our customer experience and drive smarter decisions. Techno Rich delivered a custom AI solution that exceeded our expectations. The AI-driven insights have helped us personalize customer interactions and optimize our services. The entire process was smooth, and the team was incredibly knowledgeable and responsive to our needs.”",
   },
   {
     id: 4,
     name: "Amit Kumar",
     position: "Head of Data Science, FinanceHub",
     img: require("./assets/images/testimonial4.jpg"),
-    desc: "“As a data-driven company, we needed a solution that could help us unlock insights from our data. SINHA AI SOLUTIONS implemented machine learning models that have significantly improved our decision-making process. Their team expertly analyzed our data and helped us predict trends and behaviors, which has allowed us to make more informed business decisions. The results have been fantastic, and we couldn’t be happier with the partnership.”",
+    desc: "“As a data-driven company, we needed a solution that could help us unlock insights from our data. Techno Rich implemented machine learning models that have significantly improved our decision-making process. Their team expertly analyzed our data and helped us predict trends and behaviors, which has allowed us to make more informed business decisions. The results have been fantastic, and we couldn’t be happier with the partnership.”",
   },
   {
     id: 5,
     name: "Jennifer Johnson",
     position: "Digital Marketing Lead of Creative Media Group",
     img: require("./assets/images/testimonial5.jpg"),
-    desc: "“Our website was outdated, and we knew it was time for a refresh. We turned to SINHA AI SOLUTIONS, and they delivered a modern, responsive, and visually appealing website that aligns perfectly with our brand. The team worked closely with us to ensure the site was functional, fast, and optimized for SEO. Since the redesign, we’ve seen increased traffic, higher engagement, and improved conversions. We couldn’t be happier with the results!”",
+    desc: "“Our website was outdated, and we knew it was time for a refresh. We turned to Techno Rich, and they delivered a modern, responsive, and visually appealing website that aligns perfectly with our brand. The team worked closely with us to ensure the site was functional, fast, and optimized for SEO. Since the redesign, we’ve seen increased traffic, higher engagement, and improved conversions. We couldn’t be happier with the results!”",
   },
 ];
 
@@ -524,7 +524,7 @@ export const allServices = [
       </div>
     ),
     detailHeading: "Blockchain Development: Secure, Transparent, and Scalable Solutions",
-    detailContent: `<p>Blockchain technology is revolutionizing the way businesses operate. At SINHA AI SOLUTIONS, we specialize in creating secure, transparent, and scalable blockchain solutions that address your unique business challenges. From developing custom blockchain networks to building smart contracts and decentralized applications (DApps), we help you integrate blockchain technology in ways that enhance security, increase transparency, and simplify operations.</p>
+    detailContent: `<p>Blockchain technology is revolutionizing the way businesses operate. At Techno Rich, we specialize in creating secure, transparent, and scalable blockchain solutions that address your unique business challenges. From developing custom blockchain networks to building smart contracts and decentralized applications (DApps), we help you integrate blockchain technology in ways that enhance security, increase transparency, and simplify operations.</p>
     <p class="font-semibold mt-4">Our Blockchain Development Services Include:</p>
     <ul class="list-disc pl-6 mt-2">
       <li>Tailored Blockchain Solutions</li>

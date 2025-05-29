@@ -50,7 +50,7 @@ const WhyChooseUs = () => {
               The fire that fuels our passion.
             </h1>
             <h2 className="sub-heading text-center max-w-[60rem] mt-3 mx-auto">
-              At Sinha AI Solutions, we believe in the power of:
+              At Techno Rich, we believe in the power of:
             </h2>
             <div
               data-aos="fade-up"
