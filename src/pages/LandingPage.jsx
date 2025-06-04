@@ -75,6 +75,7 @@ const LandingPage = ({ page }) => {
           playsinline
           loop
           pip={false}
+          controls={false}
           width="100%"
           height="100%"
           config={{
@@ -83,6 +84,12 @@ const LandingPage = ({ page }) => {
                 style: {
                   objectFit: "cover",
                 },
+                autoPlay: true,
+                muted: true,
+                playsInline: true,
+                controls: false,
+                disablePictureInPicture: true,
+                "webkit-playsinline": true,
               },
             },
           }}

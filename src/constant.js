@@ -564,7 +564,7 @@ export const webPortfolio = [
   {
     id: 5,
     img: require("./assets/images/portfolio/web-development/midwam.webp"),
-    title: "Midwam – Immersive Experience Design Company",
+    title: "Midwam",
     link: "https://www.midwam.com/en/about",
   },
 ];

@@ -59,7 +59,7 @@ const PortfolioSlider = ({ page }) => {
             .concat(portfolioList)
             .map(({ img, id, title, link }) => (
               <div key={id} className="keen-slider__slide">
-                <div className="p-3 border-2 border-secondary group rounded-xl aspect-square shadow-inner_shadow shadow-secondary/20 mx-2 transform transition-all duration-300 overflow-hidden">
+                <div className="!p-3 border-2 border-secondary group rounded-xl aspect-square shadow-inner_shadow shadow-secondary/20 transform transition-all duration-300 overflow-hidden">
                   <div className="overflow-hidden relative h-full rounded-xl">
                     <div className="absolute z-[5] top-0 w-full h-full bg-gradient-to-b from-transparent to-primary/20"></div>
                     <img
@@ -70,11 +70,11 @@ const PortfolioSlider = ({ page }) => {
                       className={`-z-10 h-full w-full object-cover group-hover:scale-110 transition-all duration-200 rounded-xl group-hover:-translate-y-2`}
                       alt={title}
                     />
-                    <Link to={link} target="_blank">
-                      <h3 className="text-xl z-20 absolute p-3 bottom-0 left-0 w-full bg-primary text-center text-white hover:text-secondary">
+                    <h3 className="text-xl z-20 absolute p-3 bottom-0 left-0 w-full bg-primary text-center text-white hover:text-secondary">
+                      <Link to={link} target="_blank">
                         {title}
-                      </h3>
-                    </Link>
+                      </Link>
+                    </h3>
                   </div>
                 </div>
               </div>
