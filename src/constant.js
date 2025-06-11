@@ -66,7 +66,7 @@ export const companyDetails = {
   phone: "+919835876396",
   address:
     "New Area D-Block, Kadamkuan, PO : Kadamkuan, DIST : Patna, Bihar, 800003",
-  email: "abc@xyz.com",
+  email: "contactus@technorichaisolutions.com",
   linkedin: "",
   instagram: "",
   twitter: "",
