@@ -4,6 +4,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.reset-html-content * {
+  all: revert;
+}
+
 * {
   /* font-family: "Space Grotesk", sans-serif; */
   font-family: "Poppins", serif;
@@ -11,7 +15,7 @@
 
 html {
   scroll-behavior: smooth;
-  background-color: #FBF3F1;
+  background-color: #fbf3f1;
   /* color: #111111; */
   color: #111111;
   margin: 0;
@@ -79,7 +83,7 @@ html {
 }
 
 /* banner video */
-.banner video{
+.banner video {
   object-fit: contain;
   position: absolute;
   height: 100%;
@@ -135,7 +139,7 @@ html {
   bottom: 0;
   margin: auto;
   border: 3px solid;
-  border-color: transparent #FF6600 #FF6600;
+  border-color: transparent #ff6600 #ff6600;
   width: 24px;
   height: 24px;
   border-radius: 50%;
@@ -197,7 +201,8 @@ html {
 }
 
 @keyframes scale-pulse {
-  0%, 100% {
+  0%,
+  100% {
     transform: scale(1);
   }
   50% {
@@ -237,7 +242,7 @@ html {
 }
 
 .shine-effect::after {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
